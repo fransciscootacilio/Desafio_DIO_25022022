@@ -2,6 +2,5 @@
 Desafio de projeto Git/GitHub
 
 ## Receitas de Cervejas
-
- - Pale Ale
- - 
+As receitas estão separadas em pastas por Estilos de País
+ 
